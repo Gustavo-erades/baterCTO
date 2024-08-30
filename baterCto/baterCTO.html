@@ -143,7 +143,7 @@
 
             var inputValor;
 
-            texto = cto.toUpperCase() + " TEC:" + tec.toUpperCase() + " VLAN:" + vlan.toUpperCase() + ": " + tipoTexto.toUpperCase() + "\n";
+            texto = cto.toUpperCase() + " TEC:" + tec.toUpperCase() + " VLAN: " + vlan.toUpperCase() + ": " + tipoTexto.toUpperCase() + "\n";
 
 
             const ctoCheia = document.querySelector("#ctoCheia");
@@ -159,7 +159,7 @@
             for (let j = 0; j < vlansOff.length; j++) {
 
                 if (parseInt(vlansOff[j]) >= 0) {
-                    texto = texto + "\n" + vlansOff[j] + "off" + "\n";
+                    texto = texto + "\n" + vlansOff[j] + "off";
                 }
             }
 
