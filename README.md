@@ -30,12 +30,13 @@
 
 ## Algumas considerações...
 - O projeto todo consiste apenas no `Front-end`, sendo uma aplicação puramente `client-side` e serve apenas para ser uma maneira mais bonita, simples e dinâmica de organizar as batidas de CTO, processo feito no dia a dia de uma provedora;
-  ><ul>
+<ul>
   <li>
     É comum se encontrar portas `off` durante uma batida, coloque-as no campo especificado separadas por vírgula;
   </li>
   <li>
     Lembre de indicar ao final se a CTO estava completamente cheia ou se alguma porta foi usada.
-  <li>
+  </li>
 </ul>
-- Caso queria usar, basta acessar o link na descrição do repositório, caso queira desenvolver mais o projeto basta clonar o repositório e solicitar o commit para a branch principal deste
+
+>Caso queria usar, basta acessar o link na descrição do repositório, caso queira desenvolver mais o projeto basta clonar o repositório e solicitar o commit para a branch principal deste`
