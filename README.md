@@ -30,4 +30,4 @@
 -É comum se encontrar portas `off`  durante uma batida, coloque-as no campo especificado separadas por vírgula;
 -Lembre de indicar ao final se a CTO estava completamente cheia ou se alguma porta foi usada.
 
->Caso queria usar, basta acessar o link na descrição do repositório, caso queira desenvolver mais o projeto basta clonar o repositório e solicitar o commit para a branch principal deste`
+>Caso queria usar, basta acessar o link na descrição do repositório, caso queira desenvolver mais o projeto basta clonar o repositório e solicitar o commit para a branch principal
